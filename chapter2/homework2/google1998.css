@@ -1,0 +1,52 @@
+img {
+    display: block;
+    margin-left: auto ;
+    margin-right: auto;
+}
+
+p {
+   margin-top: 0.5px;
+   margin-bottom: 0.5px;
+}
+
+.general{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1715px;
+    height: 120px;
+}
+
+.table1 {
+    background-color:#EEEEEE;
+    width: 1208px;
+    height: 60px;
+}
+
+input [type="text"]{
+    background-color: #FFFFFF ;
+    margin-top: auto;
+    margin-bottom: 0px;
+}
+
+.table2 {
+    background-color:#7EE5DA;
+    width: 37%;
+}
+
+.table3 {
+    background-color: #70CCC2; 
+    font-size: 13px;
+}
+
+.table4{
+    background-color: #62B3AA; 
+    align-self: flex-end; 
+    font-size: 13px;
+}
+
+#footer{
+    font-size: 13px;
+    text-align: center;
+    margin: 16px auto;
+}
